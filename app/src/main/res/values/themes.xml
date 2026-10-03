@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IccidScanner" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#1565C0</item>
+        <item name="colorPrimaryVariant">#0D47A1</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#1565C0</item>
+        <item name="android:statusBarColor">#0D47A1</item>
+    </style>
+
+    <style name="ToolbarButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+    </style>
+
+    <style name="OverlayButton" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">14dp</item>
+        <item name="android:paddingEnd">14dp</item>
+        <item name="backgroundTint">#99000000</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

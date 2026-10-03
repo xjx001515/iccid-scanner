@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICCID扫描</string>
+    <string name="hint_scan">把卡板底部条码或 ICCID 数字放进框里</string>
+</resources>

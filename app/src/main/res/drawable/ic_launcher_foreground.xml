@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 白色卡片 + 条码 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,30h40a4,4 0,0 1,4 4v40a4,4 0,0 1,-4 4h-40a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M38,42h3v24h-3z M43,42h1.5v24h-1.5z M46.5,42h3v24h-3z M51.5,42h1.5v24h-1.5z M55,42h4v24h-4z M61,42h1.5v24h-1.5z M64.5,42h3v24h-3z M69.5,42h1.5v24h-1.5z" />
+</vector>
